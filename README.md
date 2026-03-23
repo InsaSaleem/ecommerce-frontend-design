@@ -53,13 +53,11 @@ ecommerce-frontend-design/
 │   └── (all images/assets)
 ```
 
-## 🌐 Live Demo
 ## 📂 GitHub Repository
 🔗 [View Source Code](https://github.com/InsaSaleem/ecommerce-frontend-design)
 
-## 📂 GitHub Repository
-🔗 [View Source Code](#)
-https://github.com/InsaSaleem/ecommerce-frontend-design
+## 🌐 Live Demo
+🔗 [View Live Website](https://insasaleem.github.io/ecommerce-frontend-design/)
 
 ## 🎯 Learning Outcomes
 * Improved understanding of HTML, CSS, and JavaScript
