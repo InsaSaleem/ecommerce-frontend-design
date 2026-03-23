@@ -58,7 +58,7 @@ ecommerce-frontend-design/
 
 ## 📂 GitHub Repository
 🔗 [View Source Code](#)
-*(Add your GitHub repo link here)*
+*https://github.com/InsaSaleem/ecommerce-frontend-design*
 
 ## 🎯 Learning Outcomes
 * Improved understanding of HTML, CSS, and JavaScript
