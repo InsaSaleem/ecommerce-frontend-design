@@ -54,7 +54,8 @@ ecommerce-frontend-design/
 ```
 
 ## 🌐 Live Demo
-🔗 https://insasaleem.github.io/ecommerce-frontend-design/
+## 📂 GitHub Repository
+🔗 [View Source Code](https://github.com/InsaSaleem/ecommerce-frontend-design)
 
 ## 📂 GitHub Repository
 🔗 [View Source Code](#)
