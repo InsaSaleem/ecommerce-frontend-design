@@ -4,6 +4,11 @@
 
 This project is a desktop-based **E-Commerce Frontend Website** developed as part of an internship task. The goal of this project is to implement a visually accurate and user-friendly interface based on a provided Figma design using core frontend technologies.
 
+🔗 Quick Links
+📂 GitHub Repository: https://github.com/InsaSaleem/ecommerce-frontend-design
+
+🌐 Live Demo: https://insasaleem.github.io/ecommerce-frontend-design/
+
 ## 🚀 Features
 
 * 🧭 **Responsive Header & Footer**
@@ -52,11 +57,6 @@ ecommerce-frontend-design/
 ├── images/
 │   └── (all images/assets)
 ```
-
-🛍️ E-commerce Frontend Design
-📂 GitHub Repository: https://github.com/InsaSaleem/ecommerce-frontend-design
-
-🌐 Live Demo: https://insasaleem.github.io/ecommerce-frontend-design/
 
 ## 🎯 Learning Outcomes
 * Improved understanding of HTML, CSS, and JavaScript
